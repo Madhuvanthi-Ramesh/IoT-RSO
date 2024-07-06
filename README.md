@@ -1,4 +1,4 @@
-# IOT/Retail-Store-Optimisation
+# IOT/Retail-StoreOptimisation
 
 **Requirements:**
 
